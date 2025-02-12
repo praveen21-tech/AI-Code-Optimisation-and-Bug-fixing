@@ -11,6 +11,7 @@ Implementation Overview:
 Backend: Flask-based API using LangChain with Groq API (LLaMA 3.3-70B model) for intelligent code analysis.
 Frontend: Streamlit-powered UI for seamless user interaction and real-time code streaming.
 Speech Processing: Google TTS and Speech-to-Text (STT) for voice-based interactions.
+
 Impact & Benefits:
 🚀 Reduces Development Time by automating complex optimizations.
 🛠️ Improves Code Quality through structured, context-aware refactoring.
