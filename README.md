@@ -3,6 +3,10 @@ AI-powered code optimization and security assistant that goes beyond traditional
 
 # Key Features:
 ✅ Real-Time Code Optimization: Our AI model streams optimized code in real time, ensuring efficiency and accuracy.
+
+
+
+
 ✅ Multi-Language Support: Supports Python, JavaScript, Java, and C++ for broader usability.
 ✅ Context-Aware Refactoring: AI understands the structure and logic of code, suggesting improvements that enhance readability, maintainability, and efficiency.
 ✅ Speech & Multilingual Capabilities: Users can interact with the system using voice input and receive explanations in English, Tamil, and Hindi, along with text-to-speech (TTS) integration for enhanced accessibility.
